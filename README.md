@@ -10,6 +10,8 @@ This repository contains my notes for the data science course.
 4. [Notebook 4: Data Preprocessing](4veri_on_isleme.ipynb)
 5. [Notebook 5: Linear Regression Models](5dogrusal_regresyon_modelleri)
 6. [Notebook 6: Non-Linear Regression Models](6dogrusal_olmayan_regresyon_modelleri)
-
+7. [Notebook 7: Classification Problems](7siniflandirma_problemleri)
+8. [Notebook 8: Unsupervised Learning](8gozetimsiz_ogrenme)
+9. [Notebook 9: Big Data](9buyuk_veri)
 
 *More notebooks to be added*
