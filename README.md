@@ -13,5 +13,7 @@ This repository contains my notes for the data science course.
 7. [Notebook 7: Classification Problems](7siniflandirma_problemleri)
 8. [Notebook 8: Unsupervised Learning](8gozetimsiz_ogrenme)
 9. [Notebook 9: Big Data](9buyuk_veri)
+10. [Notebook 10: Data Mining](10metin_madenciligi)
+11. [Notebook 11: Natural Language Processing](11dogal_dil_isleme)
 
 *More notebooks to be added*
